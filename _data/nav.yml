@@ -2,4 +2,9 @@
   link: /
 - name: About
   link: /about.html
+- name: Gallery
+  link: /gallery.html
+- name: Contact
+  link: /contact.html
+
   

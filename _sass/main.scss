@@ -45,6 +45,11 @@ nav {
 	a{
 		color: black;
 		text-decoration: none;
+		margin: 4px;
+		margin-left: 6px;
+		margin-right: 6px;
+		padding-left: 6px;
+		padding-right: 6px;
 	}
 }
 
@@ -72,6 +77,9 @@ nav {
 		display: block;
 		width: 25%;
 		//background-color: grey;
+		.padded-top {
+		    padding-top: 55px;
+		}
 	}
 
 	.instagram-img {
@@ -89,6 +97,27 @@ nav {
 	.oakland-img {
 		width: 80px;
 		display: block;
-		margin: auto;
+		margin-left: auto;
+		margin-right: auto;
+		margin-bottom: auto;
+		margin-top: 14px;
+	}
+	nav {
+		width: 90%;
+		margin-right: auto;
+		margin-left: auto;
+		padding: 10px;
+		padding-top: 0px;
+		display: inline-grid;
+		text-align: center;
+		a{
+			color: white;
+			text-decoration: none;
+			margin-bottom: 4px;
+			margin-left: 6px;
+			margin-right: 6px;
+			padding-left: 6px;
+			padding-right: 6px;
+		}
 	}
 }
