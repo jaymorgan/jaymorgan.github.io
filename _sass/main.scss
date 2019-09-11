@@ -25,6 +25,13 @@ h1 {
 	color: darkorange;
 }
 
+.container {
+	width: 80%;
+	display: block;
+	margin: auto;
+	margin-bottom: 80px;
+}
+
 // Header Elements
 
 .logo {
@@ -52,12 +59,14 @@ nav {
 		padding-right: 6px;
 	}
 }
+.current {
+	color: red;
+}
 
 .hero-img {
 	display: block;
   	margin-left: auto;
   	margin-right: auto;
-  	width: 80%;
 }
 
 // Footer Elements
@@ -71,6 +80,7 @@ nav {
 	margin-top: 40px;
 	background-color: #458a73;
 	padding: 40px;
+	clear: both;
 
 	.col-1 {
 		padding-top: 20px;
