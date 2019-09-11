@@ -5,4 +5,6 @@ title: About
 
 ## About Jay
 
-Eat it!
+
+Eat it and don't think about it. 
+
