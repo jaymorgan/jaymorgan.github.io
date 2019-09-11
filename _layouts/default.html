@@ -1,12 +1,5 @@
-
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/assets/css/normalize.css">
-    <link rel="stylesheet" href="/assets/css/styles.css">
-  </head>
+{% include header.html %}
+  
   <body>
 
   	<img src="/assets/images/logo.jpg" class="logo">
@@ -14,5 +7,6 @@
   	{% include nav.html %}
 
 		{{ page.content }}
+
   </body>
 </html>
