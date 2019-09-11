@@ -3,10 +3,11 @@ layout: default
 title: About
 ---
 
-## About Jay  
+<h1>About Jay</h1>  
 
 
-Eat it and don't think about it.  
-This is only a test to try out **Markdown** editing.  
+<p>blah blah blah... </p>  
+<p>and so on.</p>	
+
 
 
