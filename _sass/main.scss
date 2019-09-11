@@ -20,6 +20,14 @@ nav {
 	padding: 10px;
 	display: block;
 	text-align: center;
+	a{
+		color: black;
+		text-decoration: none;
+	}
+}
+
+.hepta {
+	font-family: 'Hepta Slab', serif;
 }
 
 .hero-img {
@@ -40,10 +48,14 @@ nav {
 	margin-top: 40px;
 	background-color: #458a73;
 	padding: 40px;
-}
 
-.col-1 {
-	display: block;
-	width: 25%;
-	background-color: grey;
+	.col-1 {
+		display: block;
+		width: 25%;
+		background-color: grey;
+	}
+
+	.oakland-img {
+		width: 80%;
+	}
 }
