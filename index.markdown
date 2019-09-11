@@ -3,4 +3,6 @@ layout: default
 title: Hello motherfuckers
 ---
 
-<H1>Hi there!</H1>
+<div>
+	<img src="/assets/images/shop_bench.jpg" class="hero-img">
+</div>
