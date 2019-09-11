@@ -3,13 +3,17 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jay
 
 # THANKS
 
-    <name>
+    Jay
 
-# TECHNOLOGY COLOPHON
+# NO THANKS
 
-    CSS3, HTML5
-    Apache Server Configs, jQuery, Modernizr, Normalize.css
+	Computer Nerds that can't answer simple questions
+
+# TECHNOLOGY NERDS
+
+	Get your collective heads out of your asses. 
+    
