@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hello motherfuckers
+title: Jay Morgan Handcraft
 ---
 
 <div>

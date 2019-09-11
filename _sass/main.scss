@@ -1,6 +1,28 @@
+// Fonts
+.hepta {
+	font-family: 'Hepta Slab', serif;
+}
+
+.roboto {
+	font-family: 'Roboto', sans-serif;
+}
+
+// General 
+
+body {
+	font-family: 'Roboto', sans-serif;	
+}
+
+a {
+	text-decoration: none;
+	color: black;
+	:hover {
+		color: red;
+	}
+}
 
 h1 {
-	color: orange;
+	color: darkorange;
 }
 
 // Header Elements
@@ -26,10 +48,6 @@ nav {
 	}
 }
 
-.hepta {
-	font-family: 'Hepta Slab', serif;
-}
-
 .hero-img {
 	display: block;
   	margin-left: auto;
@@ -42,7 +60,7 @@ nav {
 .footer {
 	display: flex;
 	justify-content: space-evenly;
-	width: 100%;
+	// width: 100%;
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 40px;
@@ -50,12 +68,27 @@ nav {
 	padding: 40px;
 
 	.col-1 {
+		padding-top: 20px;
 		display: block;
 		width: 25%;
-		background-color: grey;
+		//background-color: grey;
+	}
+
+	.instagram-img {
+		width: 27px;
+    	vertical-align: middle;
+	}
+	.oakland-tag{
+		display: block;
+		text-align: center;
+		color: white;
+		font-weight: lighter;
+		padding-top: 8px;
 	}
 
 	.oakland-img {
-		width: 80%;
+		width: 80px;
+		display: block;
+		margin: auto;
 	}
 }
