@@ -4,12 +4,5 @@
 ---
 
 
-.current {
-  color: green;
-}
-
-h1 {
-	color: purple;
-}
-
-@import "main"
+@import "main";
+@import "content";
