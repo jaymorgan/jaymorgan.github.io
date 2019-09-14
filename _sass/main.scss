@@ -41,6 +41,29 @@ h1 {
 	display: block;
 	margin: auto;
 	margin-bottom: 80px;
+	clear: both;
+	h1 {
+		font-family: 'Hepta Slab', serif;
+		font-weight: 400;
+		@media (max-width: 500px) {
+			text-align: center;
+		}
+	}
+	p {
+		text-align: justify;
+	}
+	.content-img {
+		float: left;
+		width: 160px;
+		padding-right: 20px;
+		@media (max-width: 500px) {
+			float: none;
+			width: 200px;
+			padding-right: 0px;
+			display: block;
+			margin: auto;
+		}
+	}
 }
 
 // Header Elements
