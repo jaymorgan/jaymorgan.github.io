@@ -210,4 +210,27 @@ nav {
 		}
 	}
 }
+.home-container{
+	hr{
+		height: 1px;
+		border: 0;
+		background-color: aquamarine;
+	}
+	.home-img {
+		display: block;
+	}
+	.home-blurb {
+		display: block;
+		padding-bottom: 30px;
+		padding-top: 20px;
+	}
+}
+.contact-info {
+	font-weight: 100;
+
+line-height: 2em;
+}
+
+
+
 
